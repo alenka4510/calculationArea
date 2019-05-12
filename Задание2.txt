@@ -1,10 +1,10 @@
-/*получение пар имя продукта- имя категории*/
+/*Р·Р°РїСЂРѕСЃ РЅР° РїРѕР»СѓС‡РµРЅРёРµ РїР°СЂ РёРјСЏ РїСЂРѕРґСѓРєС‚Р° - РёРјСЏ РєР°С‚РµРіРѕСЂРёРё/
 
 SELECT products.name, categories.Name 
 FROM products
 left join relations on relations.pr_id = products.Id
 left join categories on categories.Id = relations.cat_id
 
-/*структура таблиц*/
-таблицы categories и products содержат два поля: Id и Name
-таблица relations описывает связь продукта и категории, содержит id сущностей.
+/*РЎС‚СЂСѓРєС‚СѓСЂР° С‚Р°Р±Р»РёС†*/
+С‚Р°Р±Р»РёС†С‹ categories Рё products СЃРѕРґРµСЂР¶Р°С‚ РґРІР° РїРѕР»СЏ: Id ?Name
+С‚Р°Р±Р»РёС†Р° relations РѕРїРёСЃС‹РІР°РµС‚ СЃРІСЏР·СЊ РїСЂРѕРґСѓРєС‚Р° Рё РєР°С‚РµРіРѕСЂРёРё, СЃРѕР¶РµСЂР¶РёС‚ id РѕР±РµРёС… СЃСѓС‰РЅРѕСЃС‚РµР№
