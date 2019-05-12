@@ -6,5 +6,5 @@ left join relations on relations.pr_id = products.Id
 left join categories on categories.Id = relations.cat_id
 
 /*Структура таблиц*/
-таблицы categories и products содержат два поля: Id ?Name
+таблицы categories и products содержат два поля: Id, Name
 таблица relations описывает связь продукта и категории, сожержит id обеих сущностей 
