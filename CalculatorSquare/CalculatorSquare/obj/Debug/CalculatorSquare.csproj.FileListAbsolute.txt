@@ -1,0 +1,6 @@
+C:\Users\alena\RiderProjects\CalculatorSquare\CalculatorSquare\bin\Debug\CalculatorSquare.dll
+C:\Users\alena\RiderProjects\CalculatorSquare\CalculatorSquare\bin\Debug\CalculatorSquare.pdb
+C:\Users\alena\RiderProjects\CalculatorSquare\CalculatorSquare\obj\Debug\CalculatorSquare.csprojAssemblyReference.cache
+C:\Users\alena\RiderProjects\CalculatorSquare\CalculatorSquare\obj\Debug\CalculatorSquare.csproj.CoreCompileInputs.cache
+C:\Users\alena\RiderProjects\CalculatorSquare\CalculatorSquare\obj\Debug\CalculatorSquare.dll
+C:\Users\alena\RiderProjects\CalculatorSquare\CalculatorSquare\obj\Debug\CalculatorSquare.pdb
